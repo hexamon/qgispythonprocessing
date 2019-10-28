@@ -1,5 +1,4 @@
-# qgispythonprocessing
-Python scripts for QGIS Processing
+# QGIS Python processing
 
 A collection of hopefully useful Python scripts to be used in QGIS Processing.
 
